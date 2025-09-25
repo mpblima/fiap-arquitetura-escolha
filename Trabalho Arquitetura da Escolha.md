@@ -12,6 +12,8 @@ Alunos:
 - Bruno Rodrigues Aguilar Figueiredo - RM358221
 - Pedro Trancoso Zaluar - RM358060
 
+** Link do video de apresentação disponivel em: **
+
 # 1. Storytelling: Desvendando o Problema e a Solucao com Open Banking
 
 Deixe-me apresentar a vocés a Maria. Ela é uma empreendedora vibrante, dona de uma pequena confeitaria que faz os doces mais deliciosos da cidade.A Maria tem um sonho: expandir seu negócio， talvez abrir uma segunda loja ou investir em equipamentos mais modernos. O problema? O acesso a crédito.
