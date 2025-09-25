@@ -64,38 +64,11 @@ Em qualquer projeto inovador, especialmente um que lida com dados tao sensiveis 
 
 | Categoria | Risco | Descrição detalhada | 
 |-----------|-------|---------------------|
-| Tácnico | Inconsistência e Baixa Qualidade das APIs de Terceiros | A maior preocupação aqui é a variabilidade e a
-maturidade das APIs oferecidas pelas instituições
-financeiras parceiras. Isso pode se traduzir em
-desempenho instável, dados incompletos ou incorretos, e
-uma falta de padronização que eleva significativamente a
-complexidade de integração e manutenção do nosso
-sistema. |
-| Segurança | Vazamento de Dados Sensíveis e Ataques Cibernéticos | Um pesadelo seria um ataque bem-sucedido que
-resultasse no vazamento ou comprometimento de dados
-financeiros e pessoais de milhões de usuários. As
-consequências seriam devastadoras: perda massiva de
-confiança, multas regulatórias exorbitantes (LGPD) e um
-dano irreparável à nossa reputação. |
-| Regulatório | Mudanças na Regulamentação e Incerteza Jurídica | O cenário do Open Banking é dinâmico e altamente
-regulado. Mudanças nas diretrizes do Banco Central do
-Brasil ou novas interpretações legais são um risco
-constante, podendo nos obrigar a fazer adaptações
-significativas na plataforma em prazos apertados,
-impactando custos e cronogramas. |
-| Negócio | Baixa Adoção por Usuários e Instituições | Se os clientes não enxergarem valor real na nossa
-proposta ou não confiarem na segurança da plataforma,
-teremos uma baixa adesão. Da mesma forma, a
-relutância de instituições financeiras em aderir
-plenamente ao ecossistema pode limitar a abrangência e
-a utilidade do nosso serviço, inviabilizando o modelo de
-negócio. |
-| Operacional | Complexidade na Gestão de Consentimento e Fraudes | Garantir que o ciclo de vida do consentimento do cliente
-(desde a concessão até a revogação) seja transparente,
-seguro e em total conformidade com a LGPD é um desafio
-operacional considerável. Além disso, a sofisticação das
-tentativas de fraude no ambiente digital exige sistemas
-robustos de detecção e prevenção.|
+| Tácnico | Inconsistência e Baixa Qualidade das APIs de Terceiros | A maior preocupação aqui é a variabilidade e a maturidade das APIs oferecidas pelas instituições financeiras parceiras. Isso pode se traduzir em desempenho instável, dados incompletos ou incorretos, e uma falta de padronização que eleva significativamente a complexidade de integração e manutenção do nosso sistema. |
+| Segurança | Vazamento de Dados Sensíveis e Ataques Cibernéticos | Um pesadelo seria um ataque bem-sucedido que resultasse no vazamento ou  comprometimento de dados financeiros e pessoais de milhões de usuários. As consequências seriam devastadoras: perda massiva de confiança, multas regulatórias exorbitantes (LGPD) e um dano irreparável à nossa reputação. |
+| Regulatório | Mudanças na Regulamentação e Incerteza Jurídica | O cenário do Open Banking é dinâmico e altamente regulado. Mudanças nas diretrizes do Banco Central do Brasil ou novas interpretações legais são um risco constante, podendo nos obrigar a fazer adaptações significativas na plataforma em prazos apertados, impactando custos e cronogramas. |
+| Negócio | Baixa Adoção por Usuários e Instituições | Se os clientes não enxergarem valor real na nossa proposta ou não confiarem na segurança da plataforma, teremos uma baixa adesão. Da mesma forma, a relutância de instituições financeiras em aderir plenamente ao ecossistema pode limitar a abrangência e a utilidade do nosso serviço, inviabilizando o modelo de negócio. |
+| Operacional | Complexidade na Gestão de Consentimento e Fraudes | Garantir que o ciclo de vida do consentimento do cliente (desde a concessão até a revogação) seja transparente, seguro e em total conformidade com a LGPD é um desafio operacional considerável. Além disso, a sofisticação das tentativas de fraude no ambiente digital exige sistemas robustos de detecção e prevenção.|
 
 Entender esses riscos é o primeiro passo para construir um projeto resiliente e preparado para os desafios que virao. Nao se trata de evitar todos os riscos, mas de gerencia-los de forma inteligente.
 
@@ -435,6 +408,7 @@ Adocao de uma Arquitetura Baseada em Microsservicos desde o Inicio: No comeco,a 
 # Nivel Componente
 
 ![](./Imagens/Image5.png)
+
 
 
 
