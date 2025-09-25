@@ -50,11 +50,11 @@ Para que nossa jornada de aprendizado seja verdadeiramente frutifera e nos guie 
 
 Adocao e Confianca do Usuario: O que，de fato， fara com que nossos clientes se sintam confortaveis e seguros para compartilhar seus dados financeiros? Como podemos construir e comunicar essa seguranca de forma tao eficaz que a confianca se torne um diferencial inquestionavel?
 
-Qualidade e Padronizagao das APls do Ecossistema: As APls que as instituicóes financeiras parceiras nos oferecem sao realmente consistentes em termos de desempenho，disponibilidade e formato? Qual o real esforco que teremos para padronizar e enriquecer esses dados， transformando-os em informacoes valiosas?   
+Qualidade e PadronizAção das APls do Ecossistema: As APls que as instituicóes financeiras parceiras nos oferecem sao realmente consistentes em termos de desempenho，disponibilidade e formato? Qual o real esforco que teremos para padronizar e enriquecer esses dados， transformando-os em informacoes valiosas?   
 Jornada do Usuario Sem Atritos: Onde estao os maiores desafios e pontos de atrito na experiéncia do usuario, desde o primeiro contato com a plataforma até a utilizacao plena dos servicos? Como podemos otimizar essa jornada para que ela seja o mais fluida, intuitiva e agradavel possivel?   
 Modelo de Monetizacao Sustentavel: Como vamos gerar receita de forma que seja sustentavel e justa para todos os envolvidos? Precisamos definir se O modelo sera baseado em taxas de sucesso, assinaturas, comissoes,ou uma combinacäo inteligente de diferentes abordagens.   
 Vulnerabilidades e Defesas de Seguranca: Quais sao os pontos fracos especificos do nosso sistema e de todo o ecossistema do Open Banking? Como podemos identificar e resolver proativamente essas vulnerabilidades antes que elas se transformem em problemas reais e custosos?   
-Impacto na Inovagao de Produtos: De que forma o acesso a dados agregados e a capacidade de iniciar pagamentos via APl nos permitira criar produtos e servicos financeiros verdadeiramente inovadores e personalizados, que hoje säo impossiveis de serem oferecidos?
+Impacto na InovAção de Produtos: De que forma o acesso a dados agregados e a capacidade de iniciar pagamentos via APl nos permitira criar produtos e servicos financeiros verdadeiramente inovadores e personalizados, que hoje säo impossiveis de serem oferecidos?
 
 Responder a essas perguntas nos dara a clareza necessaria para tomar decisoes estratégicas e técnicas mais assertivas, pavimentando o caminho para o sucesso do nosso projeto.
 
@@ -113,20 +113,20 @@ Para o Risco Técnico (lnconsisténcia e Baixa Qualidade das APls de Terceiros):
 
 Para o Risco de Seguranca (Vazamento de Dados Sensiveis e Ataques Ciberneticos):
 
-。 Nossa Agao Principal: Adotaremos uma estratégia de "defesa em profundidade". Isso significa que a seguranca sera implementada em multiplas camadas: criptografia de dados em repouso e em transito, segregacao de redes, uso de firewalls de aplicacao web (WAF) e um controle de acesso rigoroso baseado no principio do menor privilegio. Cada ponto de acesso sera fortificado.   
+。 Nossa Ação Principal: Adotaremos uma estratégia de "defesa em profundidade". Isso significa que a seguranca sera implementada em multiplas camadas: criptografia de dados em repouso e em transito, segregacao de redes, uso de firewalls de aplicacao web (WAF) e um controle de acesso rigoroso baseado no principio do menor privilegio. Cada ponto de acesso sera fortificado.   
 。 Resposta a Incidentes: Desenvolveremos e testaremos regularmente um Plano de Resposta a Incidentes. Este plano detalharä cada passo a ser tomado em caso de uma_violacao de seguranca， incluindo a comunicacao_transparente e rapida com os clientes e os órgaos reguladores. Estar preparado é metade da batalha.
 
 Para o Risco Regulatório (Mudancas na Regulamentacao e Incerteza Juridica):
 
-0 Nossa Agao Principal: Manteremos uma equipe ou consultoria especializada dedicada ao acompanhamento continuo das discussoes, consultas publicas e publicacóes do Banco Central e outros órgaos relevantes. Além disso，nossa arquitetura sera projetada de forma modular, permitindo que as regras de negócio e conformidade possam ser atualizadas com o minimo de impacto no restante do sistema. Agilidade regulatoria éa chave.
+* Nossa Açao Principal: Manteremos uma equipe ou consultoria especializada dedicada ao acompanhamento continuo das discussoes, consultas publicas e publicacóes do Banco Central e outros órgaos relevantes. Além disso，nossa arquitetura sera projetada de forma modular, permitindo que as regras de negócio e conformidade possam ser atualizadas com o minimo de impacto no restante do sistema. Agilidade regulatoria éa chave.
 
 Para o Risco de Negócio (Baixa Adocao por Usuarios e Instituicoes):
 
-。 Nossa Agao Principal: Focaremos em uma comunicacao transparente e educativa. Queremos que as pessoas entendam os beneficios reais e a seguranca do Open Banking. Comecaremos com um nicho de mercado especifico (como pequenas empresas ou um grupo de usuarios early adopters) para refinar nossa proposta de valor e construir cases de sucesso antes de expandir. A prova social sera nossa maior aliada.
+。 Nossa Ação Principal: Focaremos em uma comunicacao transparente e educativa. Queremos que as pessoas entendam os beneficios reais e a seguranca do Open Banking. Comecaremos com um nicho de mercado especifico (como pequenas empresas ou um grupo de usuarios early adopters) para refinar nossa proposta de valor e construir cases de sucesso antes de expandir. A prova social sera nossa maior aliada.
 
 Para o Risco Operacional (Complexidade na Gestao de Consentimento e Fraudes):
 
-。 Nossa Agao Principal: Implementaremos uma plataforma de gestao de consentimento dedicada e intuitiva. Ela fornecera uma interface clara para o usuario, facilitando a concessao e revogacao de permissoes, e mantera um registro de auditoria (log) completo de todas as operacöes de consentimento， garantindo total conformidade com a LGPD. Para fraudes, investiremos em sistemas de deteccäo baseados em IA e machine learning, com equipes dedicadas a analise e resposta rapida.
+。 Nossa Ação Principal: Implementaremos uma plataforma de gestao de consentimento dedicada e intuitiva. Ela fornecera uma interface clara para o usuario, facilitando a concessao e revogacao de permissoes, e mantera um registro de auditoria (log) completo de todas as operacöes de consentimento， garantindo total conformidade com a LGPD. Para fraudes, investiremos em sistemas de deteccäo baseados em IA e machine learning, com equipes dedicadas a analise e resposta rapida.
 
 Com essas estratégias, nao apenas mitigamos os riscos,mas também construimos uma base sólida para a confianca e o crescimento do nosso projeto.
 
@@ -150,7 +150,7 @@ Entender cada um desses atores e seus interesses é fundamental para o sucesso e
 
 Cada ator nesse ecossistema do Open Banking entra no jogo com suas próprias expectativas e objetivos claros. E uma teia de interesses que, quando bem alinhados, impulsionam a inovacäo e o crescimento. Veja o que cada um busca:
 
-<table><tr><td colspan="2">Parte Interessada</td><td>Expectativas de Ganho</td></tr><tr><td>Instuiceies</td><td>mudanca.</td><td>Expansao de Mercado e Inovacao: Buscam conquistar novos</td></tr><tr><td>Clientes (PessoasFisicas Juridicas)</td><td>Finais e</td><td>Controle, Economia e Conveniencia: Esperam ter mais controle sobre seus proprios dados financeiros，acesso a produtos e servicos que realmente se encaixam em suas necessidades (muitas vezes，mais baratos e com melhores condicoes), além de uma experiencia bancaria muito mais conveniente, fluida e integrada.</td></tr><tr><td>Rentradoresa Banco</td><td></td><td>Competitividade， Inclusao e Seguranga Sistemica: Almejam um sisamairinanreiramaiscoppopnuaedinamicopromoeraialyem estimular a inovacao de forma responsavel e garantir mais transparéncia e seguranca para todos os consumidores e para o sistema como um todo.</td></tr><tr><td>Tecnoiogia</td><td>de as instituicoes financeiras.</td><td>Novas Oportunidades de Negócio e Crescimento: Veem no Open</td></tr><tr><td>Desenvolvedoresde Software</td><td></td><td>Acesso a Dados e Criagao de Valor: Buscam acesso a um universo de dados e funcionalidades para criar aplicacoes inovadoras, oportunidades de empreender e a satisfacao de fazer parte de um ecossistema que nao para de crescer e gerar valor para a sociedade.</td></tr><tr><td>Associacoes Classe e Defesa do Consumidor</td><td>de dados.</td><td>ProtecaoeRepresentatividade: Esperam garantirquea implementacao do Open Banking seja ética, justa e benefica para todos, com foco na protecao dos direitos dos usuarios, na transparencia das operacoes e na mitigacao de riscos como fraudes e uso indevido de</td></tr></table>
+<table><tr><td colspan="2">Parte Interessada</td><td>Expectativas de Ganho</td></tr><tr><td>Instuiceies</td><td>mudanca.</td><td>Expansao de Mercado e Inovacao: Buscam conquistar novos</td></tr><tr><td>Clientes (PessoasFisicas Juridicas)</td><td>Finais e</td><td>Controle, Economia e Conveniencia: Esperam ter mais controle sobre seus proprios dados financeiros，acesso a produtos e servicos que realmente se encaixam em suas necessidades (muitas vezes，mais baratos e com melhores condicoes), além de uma experiencia bancaria muito mais conveniente, fluida e integrada.</td></tr><tr><td>Rentradoresa Banco</td><td></td><td>Competitividade， Inclusao e Seguranga Sistemica: Almejam um sisamairinanreiramaiscoppopnuaedinamicopromoeraialyem estimular a inovacao de forma responsavel e garantir mais transparéncia e seguranca para todos os consumidores e para o sistema como um todo.</td></tr><tr><td>Tecnoiogia</td><td>de as instituicoes financeiras.</td><td>Novas Oportunidades de Negócio e Crescimento: Veem no Open</td></tr><tr><td>Desenvolvedoresde Software</td><td></td><td>Acesso a Dados e CriAção de Valor: Buscam acesso a um universo de dados e funcionalidades para criar aplicacoes inovadoras, oportunidades de empreender e a satisfacao de fazer parte de um ecossistema que nao para de crescer e gerar valor para a sociedade.</td></tr><tr><td>Associacoes Classe e Defesa do Consumidor</td><td>de dados.</td><td>ProtecaoeRepresentatividade: Esperam garantirquea implementacao do Open Banking seja ética, justa e benefica para todos, com foco na protecao dos direitos dos usuarios, na transparencia das operacoes e na mitigacao de riscos como fraudes e uso indevido de</td></tr></table>
 
 Entender essas motivacoes é fundamental para construir uma solucäo que atenda as necessidades de todos e garanta a adesao e o engajamento necessarios para o sucesso do projeto.
 
@@ -178,7 +178,7 @@ Emresumo，nossos usuarios querem uma experiéncia financeira mais fluida, intel
 Se me perguntarem qual é o meu maior pesadelo neste projeto de Open Banking, especialmente por lidarmos com dados financeiros täo delicados,eu diria que seria uma violacao de seguranca massiva e generalizada. Imagine O caos: milhoes de dados pessoais e financeiros de usuarios vazados ou comprometidos. As consequéncias seriam, sem exagero, catastroficas:
 
 Perda Irreparavel de Confianca: A confianca é o alicerce de qualquer sistema financeiro. Um incidente como esse pulverizaria a credibilidade da nossa plataforma e, pior, do próprio conceito de Open Banking. O resultado? Usuarios abandonando a plataforma em massa e o projeto indo â faléncia， com o mercado financeiro retrocedendo anos em termos de inovacäo e abertura. Sangoes Regulatórias Severas: O Banco Central do Brasil e a LGPD nao brincam em servico. As multas para falhas na protecäo de dados säo exorbitantes, e as sancóes podem até mesmo inviabilizar nossa operacao, com proibicoes de atuacao e a perda de licencas essenciais.   
-Danos a Reputagao e Marca: Nossa marca seria para sempre associada a inseguranca e irresponsabilidade. Atrair novos usuarios ou parceiros se tornaria uma missao impossivel, e o estigma nos seguiria por anos.   
+Danos a ReputAção e Marca: Nossa marca seria para sempre associada a inseguranca e irresponsabilidade. Atrair novos usuarios ou parceiros se tornaria uma missao impossivel, e o estigma nos seguiria por anos.   
 Litigios e Acoes Coletivas: Milhoes de usuarios afetados nao ficariam de bracos cruzados. Teriamos que enfrentar acoes judiciais coletivas， gerando custos legais astronomicos e indenizacoes que poderiam nos afundar financeiramente.   
 Impacto Sistémico: Dependendo da dimensäo da falha, um incidente em um player chave do Open Banking poderia abalar a confianca em todo o sistema
 
@@ -187,7 +187,7 @@ financeiro. lsso levaria a uma retracao na inovacao,a um endurecimento regulató
 Em suma, o pior que pode acontecer é a destruicao completa da confianca e a inviabilizacao de todo o ecossistema， com cicatrizes financeiras， legais e reputacionais que seriam impossiveis de apagar. E por isso que a seguranca e a conformidade sao prioridades absolutas e inegociaveis em cada etapa do nosso projeto.
 
 # 12. Desenhando Nossa Arquitetura (Modelo Freeform - Versao Inicial)
-![](imagens/Image1.png)  
+![](./imagens/Image1.png)  
 
 
 # 13.Entendendo Cada Peca do Quebra-Cabeca: Nossos Componentes
@@ -395,12 +395,13 @@ Adocao de uma Arquitetura Baseada em Microsservicos desde o Inicio: No comeco,a 
 
 # 26. Arquiteturas com o Modelo C4 Nivel Contexto
 
-![](imagens/Image2.png)
+![](./imagens/Image2.png)
 
 # Nivel Contexto
 
-![](imagens/Image3.png)
+![](./imagens/Image3.png)
 
 # Nivel Componente
 
-![](imagens/Image5.png)
+![](./imagens/Image5.png)
+
