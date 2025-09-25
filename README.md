@@ -187,7 +187,7 @@ financeiro. lsso levaria a uma retracao na inovacao,a um endurecimento regulató
 Em suma, o pior que pode acontecer é a destruicao completa da confianca e a inviabilizacao de todo o ecossistema， com cicatrizes financeiras， legais e reputacionais que seriam impossiveis de apagar. E por isso que a seguranca e a conformidade sao prioridades absolutas e inegociaveis em cada etapa do nosso projeto.
 
 # 12. Desenhando Nossa Arquitetura (Modelo Freeform - Versao Inicial)
-![](./imagens/Image1.png)  
+![Desenho freeform](./imagens/Image1.png)  
 
 
 # 13.Entendendo Cada Peca do Quebra-Cabeca: Nossos Componentes
@@ -404,4 +404,5 @@ Adocao de uma Arquitetura Baseada em Microsservicos desde o Inicio: No comeco,a 
 # Nivel Componente
 
 ![](./imagens/Image5.png)
+
 
