@@ -140,8 +140,7 @@ Quando falamos de Open Banking,estamos lidando com um ecossistema vibrante e com
 
 Instituigoes Financeiras (Bancos Tradicionais, Fintechs, Cooperativas de Crédito): Aqui entram tanto os gigantes estabelecidos，que chamamos de incumbentes, quanto os novos players ageis e inovadores, como as fintechs. Todos eles tém um papel fundamental na oferta e no consumo de dados e servicos financeiros.   
 Clientes Finais (Pessoas Fisicas e Juridicas): Essencialmente, somos nós, os usuarios dos servicos financeiros, seja como individuos buscando gerenciar melhor suas financas pessoais ou como empresas otimizando sua gestao financeira e acesso a crédito.   
-Reguladores (Banco Central do Brasil e Outros Orgaos Governamentais): O guardiao das regras do jogo. E o órgao que define as diretrizes, os padroes tecnicos e fiscaliza todo o ecossistema para garantir a seguranca， a competicao justa，a protecao do consumidor e a estabilidade do sistema financeiro.   
-Empresas de Tecnologia (Provedores de APl, Plataformas de Integracao, Consultorias Especializadas): Säo as mentes por tras da infraestrutura e das solucoes tecnológicas que tornam o Open Banking uma realidade. Elas fornecem as ferramentas e a expertise para conectar e operar nesse novo ambiente.   
+Reguladores (Banco Central do Brasil e Outros Orgaos Governamentais): O guardiao das regras do jogo. E o órgao que define as diretrizes, os padroes tecnicos e fiscaliza todo o ecossistema para garantir a seguranca， a competicao justa，a protecao do consumidor e a estabilidade do sistema financeiro.   Empresas de Tecnologia (Provedores de APl, Plataformas de Integracao, Consultorias Especializadas): Säo as mentes por tras da infraestrutura e das solucoes tecnológicas que tornam o Open Banking uma realidade. Elas fornecem as ferramentas e a expertise para conectar e operar nesse novo ambiente.   
 Desenvolvedores de Software e Comunidade de Inovacao: A comunidade criativa que constrói aplicacóes e servicos inovadores, utilizando as APls do
 
 Open Banking como blocos de construcäo. Sao eles que transformam os dados em valor para o usuario final.
@@ -154,7 +153,14 @@ Entender cada um desses atores e seus interesses é fundamental para o sucesso e
 
 Cada ator nesse ecossistema do Open Banking entra no jogo com suas próprias expectativas e objetivos claros. E uma teia de interesses que, quando bem alinhados, impulsionam a inovacäo e o crescimento. Veja o que cada um busca:
 
-<table><tr><td colspan="2">Parte Interessada</td><td>Expectativas de Ganho</td></tr><tr><td>Instuiceies</td><td>mudanca.</td><td>Expansao de Mercado e Inovacao: Buscam conquistar novos</td></tr><tr><td>Clientes (PessoasFisicas Juridicas)</td><td>Finais e</td><td>Controle, Economia e Conveniencia: Esperam ter mais controle sobre seus proprios dados financeiros，acesso a produtos e servicos que realmente se encaixam em suas necessidades (muitas vezes，mais baratos e com melhores condicoes), além de uma experiencia bancaria muito mais conveniente, fluida e integrada.</td></tr><tr><td>Rentradoresa Banco</td><td></td><td>Competitividade， Inclusao e Seguranga Sistemica: Almejam um sisamairinanreiramaiscoppopnuaedinamicopromoeraialyem estimular a inovacao de forma responsavel e garantir mais transparéncia e seguranca para todos os consumidores e para o sistema como um todo.</td></tr><tr><td>Tecnoiogia</td><td>de as instituicoes financeiras.</td><td>Novas Oportunidades de Negócio e Crescimento: Veem no Open</td></tr><tr><td>Desenvolvedoresde Software</td><td></td><td>Acesso a Dados e CriAção de Valor: Buscam acesso a um universo de dados e funcionalidades para criar aplicacoes inovadoras, oportunidades de empreender e a satisfacao de fazer parte de um ecossistema que nao para de crescer e gerar valor para a sociedade.</td></tr><tr><td>Associacoes Classe e Defesa do Consumidor</td><td>de dados.</td><td>ProtecaoeRepresentatividade: Esperam garantirquea implementacao do Open Banking seja ética, justa e benefica para todos, com foco na protecao dos direitos dos usuarios, na transparencia das operacoes e na mitigacao de riscos como fraudes e uso indevido de</td></tr></table>
+| Parte interessada | Expectativa de ganho |
+|-------------------|----------------------|
+| Instituições Financeiras | Expansão de Mercado e Inovação: Buscam conquistar novos mercados e clientes, ter a chance de criar produtos e serviços inovadores e mais personalizados, otimizar suas operações internas e, crucialmente, manter-se competitivas em um cenário financeiro em constante e rápida mudança.|
+| Clientes Finais (Pessoas Físicas e (Jurídicas) | Controle, Economia e Conveniência: Esperam ter mais controle sobre seus próprios dados financeiros, acesso a produtos e serviços que realmente se encaixam em suas necessidades (muitas vezes, mais baratos e com melhores condições), além de uma experiência bancária muito mais conveniente, fluida e integrada. | 
+| Reguladores (Banco Central do Brasil) | Competitividade, Inclusão e Segurança Sistêmica: Almejam um sistema financeiro mais competitivo e dinâmico, promover a inclusão financeira para parcelas da população que hoje estão à margem, estimular a inovação de forma responsável e garantir mais transparência e segurança para todos os consumidores e para o sistema como um todo. |
+| Empresas de Tecnologia | Novas Oportunidades de Negócio e Crescimento: Veem no Open Banking novas e excitantes oportunidades de negócio, o crescimento exponencial do mercado de APIs e plataformas de integração, e a chance de se tornarem parceiras estratégicas e fornecedoras de soluções para as instituições financeiras. |
+| Desenvolvedores de Software | Acesso a Dados e Criação de Valor: Buscam acesso a um universo de dados e funcionalidades para criar aplicações inovadoras, oportunidades de empreender e a satisfação de fazer parte de um ecossistema que não para de crescer e gerar valor para a sociedade. |
+| Associações de Classe e Defesa do Consumidor | Proteção e Representatividade: Esperam garantir que a implementação do Open Banking seja ética, justa e benéfica para todos, com foco na proteção dos direitos dos usuários, na transparência das operações e na mitigação de riscos como fraudes e uso indevido de dados. | 
 
 Entender essas motivacoes é fundamental para construir uma solucäo que atenda as necessidades de todos e garanta a adesao e o engajamento necessarios para o sucesso do projeto.
 
@@ -408,6 +414,7 @@ Adocao de uma Arquitetura Baseada em Microsservicos desde o Inicio: No comeco,a 
 # Nivel Componente
 
 ![](./Imagens/Image5.png)
+
 
 
 
