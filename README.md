@@ -395,15 +395,16 @@ Adocao de uma Arquitetura Baseada em Microsservicos desde o Inicio: No comeco,a 
 
 # 26. Arquiteturas com o Modelo C4 Nivel Contexto
 
-![](./imagens/Image2.png)
+![](./Imagens/Image2.png)
 
 # Nivel Contexto
 
-![](./imagens/Image3.png)
+![](./Imagens/Image3.png)
 
 # Nivel Componente
 
-![](./imagens/Image5.png)
+![](./Imagens/Image5.png)
+
 
 
 
