@@ -63,7 +63,7 @@ Responder a essas perguntas nos dara a clareza necessaria para tomar decisoes es
 Em qualquer projeto inovador, especialmente um que lida com dados tao sensiveis e um ecossistema em constante evolucäo como o Open Banking，é fundamental ter uma clareza cristalina sobre os perigos que podemos enfrentar. Mapeamos os seguintes riscos principais， categorizando-os para uma melhor compreensäo e planejamento de mitigacäo:
 
 | Categoria | Risco | Descrição detalhada | 
-|===========|=======|=====================|
+|-----------|-------|---------------------|
 | Tácnico | Inconsistência e Baixa Qualidade das APIs de Terceiros | A maior preocupação aqui é a variabilidade e a
 maturidade das APIs oferecidas pelas instituições
 financeiras parceiras. Isso pode se traduzir em
@@ -435,6 +435,7 @@ Adocao de uma Arquitetura Baseada em Microsservicos desde o Inicio: No comeco,a 
 # Nivel Componente
 
 ![](./Imagens/Image5.png)
+
 
 
 
