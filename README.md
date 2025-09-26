@@ -14,7 +14,7 @@ Alunos:
 
 **Apresentação Powepoint:** [Apresentação](HubFin_OpenBanking_Apresentacao.pptx)
 
-** [Video da apresentação](https://youtu.be/i5Vh987_CDI) **
+[Video da apresentação](https://youtu.be/i5Vh987_CDI)
 
 # 1. Storytelling: Desvendando o Problema e a Solucao com Open Banking
 
@@ -416,6 +416,7 @@ Adocao de uma Arquitetura Baseada em Microsservicos desde o Inicio: No comeco,a 
 # Nivel Componente
 
 ![](./Imagens/Image5.png)
+
 
 
 
